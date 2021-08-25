@@ -1,6 +1,10 @@
 # Large_File_Processor
 Submission for assignment of Data Engineer Role at Postman.
 
+## Problem statement
+We need to be able to import products from a CSV file and into a database. There are half a million product details to be imported into the database
+
+
 ## Steps to run code:
 1. Install MySQL 
 https://dev.mysql.com/downloads/installer/
@@ -44,3 +48,10 @@ Point 3 from above was not clear but still we have created functionality to add 
 ## What would you improve if given more days
 
 If given more days i would have added more funtionalities, provided an user interface for better interaction and must have dockerised the code.
+
+## My Details:
+Name: Ashutosh Verma
+
+Email: ashutoshv1520@gmail.com
+
+Contact No.: +91-7652096675
